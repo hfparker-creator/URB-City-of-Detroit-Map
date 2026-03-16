@@ -4,12 +4,22 @@ body {
 }
 
 h1 {
+  padding: 12px;
   margin: 0;
-  padding: 16px;
-  font-size: 24px;
+}
+
+#controls {
+  padding: 0 12px 12px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+#controls label {
+  font-size: 14px;
 }
 
 #map {
-  height: calc(100vh - 70px);
+  height: 90vh;
   width: 100%;
 }

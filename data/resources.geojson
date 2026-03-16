@@ -1,4 +1,2028 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Recycle Here! Drop-Off Recycling Center",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/departments/department-public-works/refuse-collection/detroit-recycles/recycle-here-drop-facility",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07478,
+          42.36151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Water and Sewerage Department (DWSD)",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/departments/water-and-sewerage-department",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04359461313305,
+          42.3329168928567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Animal Care and Control",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/departments/general-services-department/detroit-animal-care-and-control",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05172642802977,
+          42.3673796464358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Household Hazardous Center",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/how-do-i/find-information/hazardous-waste",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04758610082831,
+          42.36829201658092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of Detroit Department of Public Works/Motor Service",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://maps.app.goo.gl/RkpCTuo9VxfnqCVn7",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05392865037567,
+          42.3692656208577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit City DPW",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/departments/department-public-works/refuse-collection/detroit-recycles/recycle-here-drop-facility",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15081678673059,
+          42.38610861346255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Disposal + Recycling Center",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://www.detroit-disposal.com/?utm_source=Core70&utm_medium=organic&utm_campaign=WebsiteURL",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05732337056976,
+          42.374839300297275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Transporation Corporation (People Mover Center)",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://www.thepeoplemover.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04442775800364,
+          42.329896410191566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Lakes Water Authority",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "http://glwater.org/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0432474068061,
+          42.33308256795179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GLWA Water Works Park",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "http://glwater.org/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9509360509062,
+          42.37454733160254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Municipal Parking Department",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/departments/municipal-parking-department",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02891818389442,
+          42.327692729358716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Public Safety Headquarters",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/node/916",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0415982055185,
+          42.33894101924887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Birth + Death records",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/how-do-i/find-information/birth-and-death-certificates",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04214341917836,
+          42.33471857737046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patrick V McNamara Federal Building",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://www.gsa.gov/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05329577325627,
+          42.33139355102848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit General Services Department",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://maps.app.goo.gl/oXDgMQ1FZSbr3n4d7",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03562374751938,
+          42.39784260215732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Department of Public Works - Traffic Engineering",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/departments/department-public-works",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08236675150611,
+          42.33078592430748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DPW Sign Shop",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://maps.app.goo.gl/vv722vMSfM5iKaeU7",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1232732342378,
+          42.40254445029639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Water Sewerage",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://maps.app.goo.gl/VmYt4qqCRQL9merN7",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25955233325442,
+          42.37667408149453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wayne County Building",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://www.waynecountymi.gov/Home",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04233297846332,
+          42.332252088758885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guardian Building",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://www.guardianbuilding.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04556830363276,
+          42.32978770391211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theodore Levin United States Courthouse",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://www.mied.uscourts.gov/index.cfm?pageFunction=courtLocations&locationID=",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0490580115645,
+          42.330729454802345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadillac Place",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://maps.app.goo.gl/284wnFsBkxyYqvbX6",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07543750733751,
+          42.36894303183178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Health Department",
+        "category": "business",
+        "sheet": "Business - Kate + Hayden",
+        "source": "https://detroitmi.gov/departments/detroit-health-department",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05520963966607,
+          42.34813898443697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamboo",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "coworking space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0506,
+          42.3339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Building Detroit (Detroit Land Bank Authority)",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "vacant properties/affordable housing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0458,
+          42.3297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capital Impact Partners",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "economic/leadership contributions to community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05136,
+          42.33687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Century Partners",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "real estate development/ affordable housing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0405,
+          42.3453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Civilla",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "design understandable systems ex. voting and accessing recources"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0722,
+          42.3601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Detroit Primary Care",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "primary care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9579,
+          42.4287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eye Care For Detroit, Inc., (ECFD)",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "eye care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2147,
+          42.4201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Cakes and Bakes",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1419,
+          42.4353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kornr Store",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "Coffee shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0886,
+          42.3533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan Urban Farming Initiative (MUFI)",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "urban farming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0641,
+          42.3719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NexTiles",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "recycling, eco-friendly textile products"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0818,
+          42.4082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocelot Print Shop",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "print shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0607,
+          42.3458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plum Health",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "health care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0673,
+          42.3323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanctuary Farms",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "urban farming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9578,
+          42.3843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SpaceLab Detroit",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "coworking space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0475,
+          42.3294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strawberry Solar",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "solar energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0664,
+          42.3512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Commons",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "laundromat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0033,
+          42.3686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Congregation",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "coffee shop/food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1005096,
+          42.3775172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lab Drawer",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "tech compnay provides STEAM box for kids"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1098,
+          42.3831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ToDooly (A.K.A. ToDoolie)",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "connects local students to community members who need assitance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0506,
+          42.3325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TreadCycle",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "recycles tires into new materials"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0205,
+          42.3582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tree-Purposed",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "recycles materials to make tables"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3693,
+          42.4665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walker-Miller Energy Services",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0784,
+          42.3736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yum Village",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://urbanei.org/urban-innovator-platform/business-profiles/view-all-approved-business-profiles/?pagenum=2",
+        "description": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0766,
+          42.3736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gordon Biersch",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://www.dinegreen.com/results",
+        "description": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3534,
+          42.2124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cat Cora\u2019s Taproom",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://www.dinegreen.com/results",
+        "description": "taproom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35648,
+          42.21735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Air Margaritaville",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://www.dinegreen.com/results",
+        "description": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34845,
+          42.22566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Street Lunchbox",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://www.dinegreen.com/results",
+        "description": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.353393,
+          42.212431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barcade Detroit",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://www.dinegreen.com/results",
+        "description": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06456,
+          42.34738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plum Market with Zingermanns",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://www.dinegreen.com/results",
+        "description": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35345,
+          42.21272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atwater Brewery",
+        "category": "public_resources",
+        "sheet": "Public resources - Jared",
+        "source": "https://www.dinegreen.com/results",
+        "description": "coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01856,
+          42.33715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Blvd Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0731433627081,
+          42.3700142418098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore St Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0719661445674,
+          42.3682872374733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amsterdam Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0708045112015,
+          42.3664576845977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferry Station (South)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0674086138273,
+          42.3612251183488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferry Station (North)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.066710706645,
+          42.3607328885256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warren Station (North)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0643465395644,
+          42.357354249792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warren Station (South)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0641875600152,
+          42.3563280973768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canfield Station (North)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0611677596907,
+          42.3526771945756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canfield Station (South)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0615928493738,
+          42.3525028928901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MLK Jr Station (North)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0575345822221,
+          42.3473123535849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MLK Jr Station (South)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0579813041557,
+          42.3470636680694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sproat Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.054486875304,
+          42.3419542735504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adelaide Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0534395396117,
+          42.3411173450868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Circus Station (South)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0509381124703,
+          42.3366822693888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Circus Station (North)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0504939843006,
+          42.3368487343501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxtown Station (South)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0524312055768,
+          42.3390220096545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxtown Station (North)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0521239022222,
+          42.3391462897804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campus Martius Station (South)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0473625682333,
+          42.3320959439312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campus Martius Station (North)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0472769084032,
+          42.3324766582925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congress Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitdata.org/dataset/qline-stops",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0454964639222,
+          42.3296307533995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Circus Park Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0506037791681,
+          42.3358043695555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Times Square Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0521630910555,
+          42.333586700045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0521239527105,
+          42.3313711394431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Cass Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0511543553669,
+          42.3295132916333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huntington Place Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0498503710867,
+          42.3282196504445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Square Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0526748265916,
+          42.3252406758529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Financial District Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0466953105609,
+          42.3286885811685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millender Center Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.042005039322,
+          42.3302815574557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renaissance Center Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0399870549645,
+          42.3301648974409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bricktown Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.041198101914,
+          42.3333342948511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greektown Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0424233523885,
+          42.3346253399986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadillac Center Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0461613018247,
+          42.3337180922234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broadway Station",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.thepeoplemover.com/stations-guide",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0482167628805,
+          42.3354570629189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosa Parks Transit Center",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://mogodetroit.org/maps/system-map/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.052241,
+          42.331377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosa Parks Transit Center",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitmi.gov/departments/detroit-department-transportation",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.052862,
+          42.332497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jason Hargrove Transit Center",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://detroitmi.gov/departments/detroit-department-transportation/jason-hargrove-transit-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.116811,
+          42.44333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Amtrak Station (DET)",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://www.amtrak.com/stations/det",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.072425,
+          42.367751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Circus Park",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://downtowndetroit.org/experience-downtown/downtown-detroit-parks/grand-circus-park/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.050319,
+          42.335865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagley Mobility Hub",
+        "category": "transportation",
+        "sheet": "Transportation - Everett",
+        "source": "https://michigancentral.com/development/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.072853,
+          42.326371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adams Butzel Complex",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/adams-butzel-complex",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1652754163233,
+          42.396132727052745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Center at AB Ford",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/ABFord",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.940902789337,
+          42.357448349666534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brennan Recreation Facility",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/brennan-recreation-facility",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2500847893365,
+          42.37039922797176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butzel Family Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/butzel-family-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0019935568064,
+          42.357941480077386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clemente Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/clemente-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0781198033927,
+          42.325193829584045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandler Park Fieldhouse",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/chandler-park-fieldhouse",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.977195631665,
+          42.39320436210975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coleman A. Young Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/coleman-young-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0246041856422,
+          42.346325169141096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crowell Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/crowell-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2583696181376,
+          42.41329065642329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farwell Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/farwell-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0586093488522,
+          42.441829807409995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heilmann Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/heilmann-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9631499298155,
+          42.4408345473209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joseph Walker Williams Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/joseph-walker-williams-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0970980721474,
+          42.371128523913555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kemeny Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/kemeny-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1578426666081,
+          42.274428559325465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lasky Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/lasky-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0519306144751,
+          42.41390536241923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northwest Activities Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/northwest-activities-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1695072623468,
+          42.423405488281816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patton Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/patton-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.137779100985,
+          42.30961928383764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tindal Recreation Center",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/tindal-recreation-center",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1633941856391,
+          42.430798956831666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helen Moore Community Center & Ed Davis Park",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/helen-moore-community-center-ed-davis-park",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1249899856409,
+          42.38055167299786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Focused Hands Community Garden",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://www.facebook.com/myHOPEvillage/",
+        "description": "status iffy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1218466058395,
+          42.398497861537045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmer Park Urban Educational Garden",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://www.peopleforpalmerpark.org/garden.html",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1166222272131,
+          42.426405073639934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Cass Community Garden",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://midtowndetroitinc.org/nccg/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0630465590173,
+          42.350698034350984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hubbard Farms Community Garden",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://www.facebook.com/HubbardFarmsGarden/#",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0904354524648,
+          42.320662788846704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Neighbors Community Garden",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "http://www.goodneighborsgarden.org/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1114828377551,
+          42.46688034825291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadillac Urban Gardens",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://www.cadillacurbangardens.org/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0991929540901,
+          42.32780361778858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hungtington place",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://www.huntingtonplacedetroit.com/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0489817205817,
+          42.32677801150157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forgotten Harvest Community Choice Market",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://www.forgottenharvest.org/forgotten-harvests-client-choice-market-fosters-dignity-in-food-assistance/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1914500721446,
+          42.44658088729592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elmwood Blessing Box",
+        "category": "community",
+        "sheet": "Community - Henry",
+        "source": "https://elmwoodblessingbox.org/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3147916181725,
+          42.354893926669924
+        ]
+      }
+    }
+  ]
 }
