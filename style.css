@@ -23,3 +23,30 @@ h1 {
   height: 90vh;
   width: 100%;
 }
+
+.legend {
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  line-height: 18px;
+  color: #333;
+  font-size: 13px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.3);
+}
+
+.legend h4 {
+  margin: 0 0 5px;
+  font-size: 14px;
+}
+
+.legend div {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.legend span {
+  width: 14px;
+  height: 14px;
+  display: inline-block;
+}

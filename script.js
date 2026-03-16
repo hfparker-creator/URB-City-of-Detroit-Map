@@ -87,3 +87,21 @@ fetch('data/resources.geojson')
 document.querySelectorAll('#controls input').forEach(input => {
   input.addEventListener('change', drawData);
 });
+
+// ---- Legend ----
+
+const legend = L.control({ position: "bottomright" });
+
+legend.onAdd = function (map) {
+  const div = L.DomUtil.create("div", "legend");
+
+  div.innerHTML += "<h4>Categories</h4>";
+  div.innerHTML += '<div><span style="background:#2e8b57"></span> Community</div>';
+  div.innerHTML += '<div><span style="background:#1f78b4"></span> Business</div>';
+  div.innerHTML += '<div><span style="background:#ff8c00"></span> Public Resources</div>';
+  div.innerHTML += '<div><span style="background:#8a2be2"></span> Transportation</div>';
+
+  return div;
+};
+
+legend.addTo(map);
